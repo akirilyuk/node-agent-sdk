@@ -1,17 +1,11 @@
 {
-  "name": "node-agent-sdk",
+  "name": "node-agent-sdk-akirilyuk",
   "description": "Liveperson Agent Messaging SDK for NodeJS",
   "version": "1.1.6",
   "author": {
     "name": "LivePersonInc",
-    "email": "fe-infra-lp@liveperson.com"
+    "email": "akirilyuk@liveperson.com"
   },
-  "contributors": [
-    {
-      "name": "Michael Dimenshtein",
-      "email": "michaeld@liveperson.com"
-    }
-  ],
   "scripts": {
     "start": "node ./examples/greeting-bot/greeting-bot.js",
     "lint": "eslint lib/*; true",
